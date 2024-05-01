@@ -1,4 +1,4 @@
-a=4
-b=4
+a=9
+b=9
 c=a*b
-print("product is :",c)
+print("Product is:",c)
